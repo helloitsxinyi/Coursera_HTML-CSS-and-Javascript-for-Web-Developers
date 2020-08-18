@@ -3,7 +3,7 @@
 
 <b>Desktop view:</b>
 <br>
-<img src="https://github.com/txinz97/Coursera_HTML-CSS-and-Javascript-for-Web-Developers/blob/master/module2-solution/images/desktop.png?raw=true" alt="desktop" width="1430" height="790">
+<img src="https://github.com/txinz97/Coursera_HTML-CSS-and-Javascript-for-Web-Developers/blob/master/module2-solution/images/desktop.png?raw=true" alt="desktop">
 <br>
 
 <b>Tablet view: </b>
