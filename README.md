@@ -14,8 +14,8 @@ Desktop view:
 <br>
 
 Tablet view:
-<img src="https://github.com/txinz97/Coursera_HTML-CSS-and-Javascript-for-Web-Developers/blob/master/module2-solution/images/tablet.png?raw=true" alt="tablet">
+<img src="https://github.com/txinz97/Coursera_HTML-CSS-and-Javascript-for-Web-Developers/blob/master/module2-solution/images/tablet.png?raw=true" alt="tablet" width="768" height="1024">
 
 Mobile view:
-<img src="https://github.com/txinz97/Coursera_HTML-CSS-and-Javascript-for-Web-Developers/blob/master/module2-solution/images/mobile.png?raw=true" alt="mobile">
+<img src="https://github.com/txinz97/Coursera_HTML-CSS-and-Javascript-for-Web-Developers/blob/master/module2-solution/images/mobile.png?raw=true" alt="mobile" width="375" height="812">
 <hr>
