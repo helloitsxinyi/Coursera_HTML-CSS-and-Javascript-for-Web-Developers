@@ -11,4 +11,4 @@ Submission: a mockup responsive website for a premium ice-cream shop.
 </ul>
 
 
-<a href="https://txinz97.github.io/oursera_HTML-CSS-and-Javascript-for-Web-Developers/module2_solution/>test</a>
+<a href="https://txinz97.github.io/oursera_HTML-CSS-and-Javascript-for-Web-Developers/module2_solution/">test</a>
