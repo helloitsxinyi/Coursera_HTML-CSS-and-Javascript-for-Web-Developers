@@ -1,5 +1,4 @@
 # A mockup responsive website for a premium ice-cream shop.
-<br><br>
 
 <b>Desktop view:</b>
 <br>
