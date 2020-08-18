@@ -8,5 +8,14 @@ Repository for coding assignments for the Coursera course:
 <br>
 Submission: a mockup responsive website for a premium ice-cream shop.
 <br>
-<img src="https://github.com/txinz97/Coursera_HTML-CSS-and-Javascript-for-Web-Developers/blob/master/module2-solution/images/desktop.png?raw=true" alt="desktop" width="200" height="80">
 
+Desktop view: 
+<img src="https://github.com/txinz97/Coursera_HTML-CSS-and-Javascript-for-Web-Developers/blob/master/module2-solution/images/desktop.png?raw=true" alt="desktop">
+<br>
+
+Tablet view:
+<img src="https://github.com/txinz97/Coursera_HTML-CSS-and-Javascript-for-Web-Developers/blob/master/module2-solution/images/tablet.png?raw=true" alt="tablet">
+
+Mobile view:
+<img src="https://github.com/txinz97/Coursera_HTML-CSS-and-Javascript-for-Web-Developers/blob/master/module2-solution/images/mobile.png?raw=true" alt="mobile">
+<hr>
