@@ -1,5 +1,5 @@
-# Coursera_HTML-CSS-and-Javascript-for-Web-Developers
+#HTML-CSS-and-Javascript-for-Web-Developers (Coursera)
 Coding Assignments for the Coursera course 
 <a href="https://www.coursera.org/learn/html-css-javascript-for-web-developers">HTML, CSS, and Javascript for Web Developers</a>
 
-# Module 2:
+<b> Module 2: </b>
