@@ -8,4 +8,5 @@ Repository for coding assignments for the Coursera course:
 <br>
 Submission: a mockup responsive website for a premium ice-cream shop.
 <br>
+<img src="/images/desktop.png" alt="desktop">
 
