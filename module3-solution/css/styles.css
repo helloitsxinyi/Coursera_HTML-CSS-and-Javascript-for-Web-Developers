@@ -1,0 +1,75 @@
+/* a:hover, a:focus is impt for buttons */
+
+/********** Base styles **********/
+* {
+  box-sizing: border-box;
+  font-family: 'Shadows Into Light', cursive;
+  /* wrap text */
+  word-wrap: break-word;
+  
+}
+
+/** HEADER **/
+#header-nav { 
+  background-color: peachpuff;
+  height: 120px;
+}
+
+.navbar-brand h1 {  /* Restaurant name */
+  font-size: 52px;
+  color: green;
+  font-weight: bold;
+
+  margin-top: auto;
+  margin-bottom: auto;
+}
+
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+}   
+
+.navbar-nav a {
+  background-color: lightyellow;
+  color: coral;
+  font-size: 30px;
+  font-weight: bold;
+  letter-spacing: 1px;      /* kerning */
+  text-align: center;
+  width: 100%;    /* cover whole screen */
+}
+.navbar-nav a:hover, .navbar-nav a:focus {
+  background: lightpink;
+  color: lightcyan;
+}
+
+.navbar-toggler:hover, .navbar-toggler:focus {
+  background: lightgoldenrodyellow;
+}
+
+#main-content h2 {   /* main content */
+  text-align: center;
+  margin-top: 30px;
+  font-size: 48px;
+  font-weight: bold;
+  color: green;
+}
+
+#food-item {
+  background-color: lightyellow;
+  padding: 10px;
+  margin: 10px;
+  width: 95%;
+}
+
+#food-item h3 {
+  text-align: center;
+  font-weight: bold;
+  font-size: 36px;
+  color: coral;
+}
+
+#food-item p, #food-item a{
+  width: 90%;
+  margin: auto;
+  font-family: 'Lora', serif;
+}
