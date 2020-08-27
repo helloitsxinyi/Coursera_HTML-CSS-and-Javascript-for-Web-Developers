@@ -12,7 +12,11 @@
 /** HEADER **/
 #header-nav { 
   background-color: peachpuff;
-  height: 120px;
+  height: 140px;
+}
+
+.navbar-header {
+  width: 100%;
 }
 
 .navbar-brand h1 {  /* Restaurant name */
