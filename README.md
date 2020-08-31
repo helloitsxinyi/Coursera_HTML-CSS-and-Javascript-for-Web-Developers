@@ -10,7 +10,7 @@ Responsive website for a premium ice-cream shop.
 </ul>
 
 <h3>Module 3 <a href="https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment3/Assignment-3.md" target="_blank"> Assignment </a> (Responsive Website with navbar and links) </h3>
-Responsive website with navbar for food items and links to sections.
+Responsive website with navbar for food items and links to sections. <br> *Bootstrap 4 was used instead of Bootstrap 3, thus responsive design dimensions (xs, sm, md) are a little different 
 <ul>
 <li><a href="https://txinz97.github.io/Coursera_HTML-CSS-and-Javascript-for-Web-Developers/module3-solution" target="_blank"> Website </a></li>
 <li><a href="https://github.com/txinz97/Coursera_HTML-CSS-and-Javascript-for-Web-Developers/tree/master/module3-solution" target="_blank"> Source code </a></li>
