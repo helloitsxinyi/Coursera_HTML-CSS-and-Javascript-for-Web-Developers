@@ -18,6 +18,6 @@ Responsive website with navbar for food items and links to sections. <br> *Boots
 
 <h3>Module 4 <a href="https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment4/Assignment-4.md"> Assignment </a> (Basic JavaScript programming) </h3>
 <ul>
-<li><a href="https://txinz97.github.io/Coursera_HTML-CSS-and-Javascript-for-Web-Developers/module4-solution" target="_blank"> Website </a></li>
+<li><a href="https://txinz97.github.io/Coursera_HTML-CSS-and-Javascript-for-Web-Developers/module4-solution" target="_blank"> Solution </a></li>
 <li><a href="https://github.com/txinz97/Coursera_HTML-CSS-and-Javascript-for-Web-Developers/tree/master/module4-solution" target="_blank"> Source code </a></li>
 </ul>
