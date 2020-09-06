@@ -22,7 +22,7 @@ Responsive website with navbar for food items and links to sections. <br> *Boots
 <li><a href="https://github.com/txinz97/Coursera_HTML-CSS-and-Javascript-for-Web-Developers/tree/master/module4-solution" target="_blank"> Source code </a></li>
 </ul>
 
-<h3>Module 5 <a href="https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment5/Assignment-5.md"> Assignment </a> (Displaying random items for the "Specials" page)</h3>
+<h3>Module 5 <a href="https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment5/Assignment-5.md"> Assignment </a> (Displaying random categories of food for the "Specials" page)</h3>
 <ul>
 <li><a href="https://txinz97.github.io/Coursera_HTML-CSS-and-Javascript-for-Web-Developers/module5-solution" target="_blank"> Website </a> </li>
 <li><a href="https://github.com/txinz97/Coursera_HTML-CSS-and-Javascript-for-Web-Developers/tree/master/module5-solution" target="_blank"> Source code </a></li>
